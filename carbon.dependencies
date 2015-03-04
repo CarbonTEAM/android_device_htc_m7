@@ -1,0 +1,28 @@
+[
+  {
+    "repository": "AICP/device_htc_msm8960-common",
+    "target_path": "device/htc/msm8960-common",
+    "branch":      "kitkat"
+  },
+  {
+    "repository": "AICP/device_htc_m7-common",
+    "target_path": "device/htc/m7-common",
+    "branch":      "kitkat"
+  },
+  {
+    "repository": "STELIX/android_kernel_htc_msm8960",
+    "target_path": "kernel/htc/msm8960",
+    "branch":      "cm-11.0"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm",
+    "branch":      "cm-11.0"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_htc",
+    "target_path": "vendor/htc",
+    "revision": "cm-11.0"
+  }
+]
