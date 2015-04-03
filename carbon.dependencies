@@ -6,7 +6,7 @@
     "branch": "cm-12.1"
   },
   {
-    "remote": "cm",
+    "remote": "gh",
     "repository": "CyanogenMod/android_device_htc_msm8960-common",
     "target_path": "device/htc/msm8960-common",
     "branch": "cm-12.1"
