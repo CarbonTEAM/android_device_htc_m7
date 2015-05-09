@@ -14,10 +14,10 @@
 # limitations under the License.
 
 # Inherit some common Carbon stuff.
-$(call inherit-product, vendor/stelix/config/common_phone.mk)
+$(call inherit-product, vendor/carbon/config/common_phone.mk)
 
 # Enhanced NFC
-#$(call inherit-product, vendor/stelix/config/nfc_enhanced.mk)
+#$(call inherit-product, vendor/carbon/config/nfc_enhanced.mk)
 
 $(call inherit-product, device/htc/m7/full_m7.mk)
 
