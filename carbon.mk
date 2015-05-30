@@ -23,7 +23,6 @@ $(call inherit-product, device/htc/m7/full_m7.mk)
 
 PRODUCT_NAME := carbon_m7
 PRODUCT_DEVICE := m7
-CARBON_BUILDTYPE := NIGHTLY
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_ID=KTU84L.H4 \
