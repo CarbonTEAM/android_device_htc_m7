@@ -12,10 +12,10 @@
     "revision": "cm-12.1"
   },
   {
-    "remote": "carbon",
+    "remote": "ste",
     "repository": "android_kernel_htc_msm8960",
     "target_path": "kernel/htc/msm8960",
-    "revision": "lp5.1"
+    "revision": "lp5.1.1"
   },
   {
     "remote": "cm",
