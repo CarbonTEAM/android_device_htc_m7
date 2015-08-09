@@ -1,16 +1,19 @@
 [
   {
-    "repository": "AICP/device_htc_msm8960-common",
+    "remote": "cr",
+    "repository": "CarbonTEAM/device_htc_msm8960-common",
     "target_path": "device/htc/msm8960-common",
-    "branch":      "kitkat"
+    "branch":      "kk4.4"
   },
   {
-    "repository": "AICP/device_htc_m7-common",
+    "remote": "cr",
+    "repository": "CarbonTEAM/device_htc_m7-common",
     "target_path": "device/htc/m7-common",
-    "branch":      "kitkat"
+    "branch":      "kk4.4"
   },
   {
-    "repository": "STELIX/android_kernel_htc_msm8960",
+    "remote": "cr",
+    "repository": "CarbonTEAM/android_kernel_htc_msm8960",
     "target_path": "kernel/htc/msm8960",
     "branch":      "cm-11.0"
   },
